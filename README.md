@@ -5,11 +5,11 @@ I enjoy turning raw data into meaningful insights.
 
 ## 🛠️ Skills & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=python,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,mysql,vscode)](https://skillicons.dev)
 
 - **Languages:** SQL · Python
 - **Database:** MySQL · Database Design
-- **Tools:** Excel · Power BI 
+- **Tools:** Excel · Power BI . VS Code
 - **Interests:** Data Analysis · Database Management · Data Science
 
 ## 🤝 Let's Connect!
