@@ -17,7 +17,3 @@ I enjoy turning raw data into meaningful insights.
 I'm always open to collaborating on interesting projects or discussing new ideas. Feel free to reach out to me!
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:a.aalghamdi47@gmail.com)
-
-## 📫 Reach me at
-
-✉️ a.aalghamdi47@gmail.com
