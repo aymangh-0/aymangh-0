@@ -9,7 +9,7 @@ I enjoy turning raw data into meaningful insights.
 
 - **Languages:** SQL · Python
 - **Database:** MySQL · Database Design
-- **Tools:** Excel · Power BI · GitHub
+- **Tools:** Excel · Power BI 
 - **Interests:** Data Analysis · Database Management · Data Science
 
 ## 🤝 Let's Connect!
