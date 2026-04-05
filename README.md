@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Ayman 👋
 
-<!--
-**aymangh-0/aymangh-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A passionate IT professional focused on data analysis and database management.
+I enjoy turning raw data into meaningful insights.
 
-Here are some ideas to get you started:
+## 🛠️ Skills & Tools
+- **Languages:** SQL · Python 
+- **Database:** MySQL · Database Design
+- **Tools:** Excel · Power BI 
+- **Interests:** Data Analysis · Database Management · Data Science
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Reach me at
+✉️ a.aalghamdi47@gmail.com
